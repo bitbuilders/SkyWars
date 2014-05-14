@@ -1,0 +1,48 @@
+name: SkyWars
+version: 1.0
+author: skipjip
+main: me.skipjip.Main
+description: stuff
+commands:
+  chicken:
+    usage: /chicken
+    description: stuff.
+  arenapos1:
+    usage: /arena
+    description: Creates location for arena.
+  arenapos2:
+    usage: /arenareset
+    description: Resets arena.
+  arenapos3:
+    usage: /startgame
+    description: Starts the game.
+  arenapos4:
+    usage: /endgame
+    description: Starts the game.
+  arenaposreset:
+    usage: /mytimer
+    description: Stops/starts the clock.
+  startgame:
+    usage: /rank
+    description: Sets people's ranks.
+  endgame:
+    usage: /knight
+    description: It's a kit.
+  mytimer:
+    usage: /knight
+    description: It's a kit.
+  archer:
+    usage: /knight
+    description: It's a kit.
+  jumper:
+    usage: /knight
+    description: It's a kit.
+  tank:
+    usage: /knight
+    description: It's a kit.
+  wizard:
+    usage: /wizard
+    description: It's a kit.
+  fireman:
+    usage: /fireman
+    description: It's a kit.
